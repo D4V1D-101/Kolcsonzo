@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kolcsonzo", "Kolcsonzo.csproj", "{CC275DC7-2057-4E96-8BD2-11B100A89F57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kolcsonzo", "Kolcsonzo.csproj", "{CC275DC7-2057-4E96-8BD2-11B100A89F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolcsonzoGUI", "..\KolcsonzoGUI\KolcsonzoGUI.csproj", "{13F14A68-420D-4570-B7EE-85F23FF09558}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{CC275DC7-2057-4E96-8BD2-11B100A89F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC275DC7-2057-4E96-8BD2-11B100A89F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC275DC7-2057-4E96-8BD2-11B100A89F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F14A68-420D-4570-B7EE-85F23FF09558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F14A68-420D-4570-B7EE-85F23FF09558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F14A68-420D-4570-B7EE-85F23FF09558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F14A68-420D-4570-B7EE-85F23FF09558}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEDDACB9-6A69-4434-B141-A3707C0B5A56}
 	EndGlobalSection
 EndGlobal
