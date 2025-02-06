@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kolcsonzo", "Kolcsonzo.csproj", "{CC275DC7-2057-4E96-8BD2-11B100A89F57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolcsonzoGUI", "..\KolcsonzoGUI\KolcsonzoGUI.csproj", "{13F14A68-420D-4570-B7EE-85F23FF09558}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "..\WpfApp1\WpfApp1.csproj", "{E6364D4E-4E89-48A2-9B46-60537335B830}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{CC275DC7-2057-4E96-8BD2-11B100A89F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC275DC7-2057-4E96-8BD2-11B100A89F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC275DC7-2057-4E96-8BD2-11B100A89F57}.Release|Any CPU.Build.0 = Release|Any CPU
-		{13F14A68-420D-4570-B7EE-85F23FF09558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{13F14A68-420D-4570-B7EE-85F23FF09558}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{13F14A68-420D-4570-B7EE-85F23FF09558}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{13F14A68-420D-4570-B7EE-85F23FF09558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6364D4E-4E89-48A2-9B46-60537335B830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6364D4E-4E89-48A2-9B46-60537335B830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6364D4E-4E89-48A2-9B46-60537335B830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6364D4E-4E89-48A2-9B46-60537335B830}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
