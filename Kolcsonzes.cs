@@ -37,7 +37,17 @@ namespace Kolcsonzo
 
         }
 
-        
+        public bool Letezikemar(int azonosito, string hajotipusa, int szemelyekszam)
+        {
+            if (azonosito == Id|| hajotipusa == HajoTipus || szemelyekszam == SzemelyekSzama)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
 
 
         public string Nev { get; set; }
